@@ -199,7 +199,7 @@ Example command:
 
 ### Link to React app
 
-<!-- - [React app](https://github.com/Sonickmumba/hello-react-front-end) -->
+- [React app](https://github.com/Sonickmumba/hello-react-front-end)
 
 ### Deployment
 
